@@ -1,2 +1,2 @@
-#Random-Quote-Generator
+# Random-Quote-Generator
 Real time Random-Quote-Generator.
